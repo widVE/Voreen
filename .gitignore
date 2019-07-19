@@ -1,0 +1,23 @@
+#ignore all raws
+*.raw
+
+#ignore all pdbs
+*.pdb
+
+#ignore all idbs
+*.idb
+
+#ignore all objs
+*.obj
+
+#ignore all ilks
+*.ilk
+
+#ignore all zips
+*.zip
+
+#ignore all dlls
+*.dll
+
+./SDK/vis_human_color.raw
+./SDK/bin/debug/voreen_core.pdb

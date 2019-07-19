@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<VoreenData version="1">
+    <Properties>
+        <mapKey value="availableGraphicsMemory" />
+        <Property>
+            <name value="availableGraphicsMemory" />
+            <value value="2363" />
+        </Property>
+        <mapKey value="cacheLimit" />
+        <Property>
+            <name value="cacheLimit" />
+            <value value="10" />
+        </Property>
+        <mapKey value="cachePath" />
+        <Property>
+            <name value="cachePath" />
+            <noPathSet value="true" />
+            <value value="" />
+        </Property>
+        <mapKey value="cpuRamLimit" />
+        <Property>
+            <name value="cpuRamLimit" />
+            <value value="4000" />
+        </Property>
+        <mapKey value="deleteCache" />
+        <Property>
+            <name value="deleteCache" />
+        </Property>
+        <mapKey value="enableLogging" />
+        <Property>
+            <name value="enableLogging" />
+            <value value="true" />
+        </Property>
+        <mapKey value="htmlLogFile" />
+        <Property>
+            <name value="htmlLogFile" />
+            <noPathSet value="false" />
+            <value value="FionaVoreen331-log.html" />
+        </Property>
+        <mapKey value="htmlLogging" />
+        <Property>
+            <name value="htmlLogging" />
+            <value value="true" />
+        </Property>
+        <mapKey value="logLevel" />
+        <Property>
+            <name value="logLevel" />
+            <value value="info" />
+        </Property>
+        <mapKey value="octreeCacheLimit" />
+        <Property>
+            <name value="octreeCacheLimit" />
+            <value value="100" />
+        </Property>
+        <mapKey value="refreshAvailableGraphicsMemory" />
+        <Property>
+            <name value="refreshAvailableGraphicsMemory" />
+        </Property>
+        <mapKey value="resetCachePath" />
+        <Property>
+            <name value="resetCachePath" />
+        </Property>
+        <mapKey value="showSplashScreen" />
+        <Property>
+            <name value="showSplashScreen" />
+            <value value="true" />
+        </Property>
+        <mapKey value="testDataPath" />
+        <Property>
+            <name value="testDataPath" />
+            <noPathSet value="true" />
+            <value value="" />
+        </Property>
+        <mapKey value="useCaching" />
+        <Property>
+            <name value="useCaching" />
+            <value value="true" />
+        </Property>
+    </Properties>
+</VoreenData>
